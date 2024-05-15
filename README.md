@@ -15,3 +15,7 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 * [Ataki grup zorganizowanych (APT)](reagowanie_incydent_przejecia_przez_apt.md)
 * [Przejęcie do Botnetu (Botnets)](reagowanie_incydent_przejecie_do_botnetu.md)
 * [Wyciek danych (Data Exfiltration)](reagowanie_incydent_wyciek_danych.md)
+
+### Procesy
+
+* [Proces zarządzania ryzykiem strony trzeciej (TPRM – Third Party Risk Management)](proces_zarzadzania_tprm.md)
