@@ -1,10 +1,10 @@
-## Proces zarządzania ryzykiem strony trzeciej (TPRM – Third Party Risk Management)
+# Proces zarządzania ryzykiem strony trzeciej (TPRM – Third Party Risk Management)
 
-TPRM pomaga identyfikować i minimalizować ryzyko w relacjach ze stronami trzecimi (procesorzy płatności, sprzedawcy, dostawcy, partnerzy, wykonawcy lub usługodawcy). 
+TPRM pomaga identyfikować i minimalizować ryzyko w relacjach ze stronami trzecimi (procesorzy płatności, sprzedawcy, dostawcy, partnerzy, wykonawcy lub usługodawcy).
 
 Dostawcy mają dostęp do własności intelektualnej, danych wrażliwych, informacji umożliwiających identyfikację osoby i chronionych informacji zdrowotnych, co wiąże się z ryzykiem dla osób trzecich. Aby skutecznie przeprowadzić TPRM, konieczne jest zrozumienie różnych ryzyk związanych z osobami trzecimi, a także ogólnych procesów zarządzania ryzykiem.
 
-### obszary (domeny) które powinny być objęte kwestionariuszem strony trzeciej 
+## obszary (domeny) które powinny być objęte kwestionariuszem strony trzeciej
 
 - Ogólne mechanizmy kontroli IT
 - Bezpieczeństwo urządzeń mobilnych
@@ -14,9 +14,7 @@ Dostawcy mają dostęp do własności intelektualnej, danych wrażliwych, inform
 - Ciągłość biznesowa/odporność
 - Ryzyko związane z przetwarzaniem danych osób trzecich
 
-
- 
-### elementy procesu zarządzania ryzykiem strony trzeciej
+## elementy procesu zarządzania ryzykiem strony trzeciej
 
 - **Rozpoznanie** - przegląd wszystkich usług i dostawców świadczonych przez strony trzecie.
 - **Należyta staranność (DD - Due Diligence)** - Ocena zasad, środowiska, procedur, compilance i kontroli bezpieczeństwa stron trzecich.

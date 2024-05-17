@@ -4,7 +4,7 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 
 ## Spis treści
 
-### Reagowanie na incydenty typu: 
+### Reagowanie na incydenty
 
 * [Ataki na System Nazw Domenowych (DNS)](reagowanie_incydent_atak_na_dns.md)
 * [Ataki na Internet Rzeczy (IoT)](reagowanie_incydent_atak_na_iot.md)
@@ -13,8 +13,12 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 * [Odmowa usługi (Denial Of Service, DoS/DDoS)](reagowanie_incydent_ddos.md)
 * [Kompromitacja konta (Compromised Account)](reagowanie_incydent_kompromitacja_konta.md)
 * [Ataki grup zorganizowanych (APT)](reagowanie_incydent_przejecia_przez_apt.md)
-* [Przejęcie do Botnetu (Botnets)](reagowanie_incydent_przejecie_do_botnetu.md)
+* [Przejęcie do botnetu (Botnets)](reagowanie_incydent_przejecie_do_botnetu.md)
 * [Wyciek danych (Data Exfiltration)](reagowanie_incydent_wyciek_danych.md)
+* [Zagrożenie Trojan](reagowanie_zagrozenie_trojan.md)
+* [Zagrożenie Podszywanie się (Spoofing)](reagowanie_zagrozenie_spoofing.md)
+* [Zagrożenie oprogramowanie szpiegujące (Spyware)](reagowanie_zagrozenie_spyware.md)
+* [Zagrożenie Szpiegostwo wewnętrzne](reagowanie_zagrozenie_szpiegostwo_wewnetrzne.md)
 
 ### Procesy
 
