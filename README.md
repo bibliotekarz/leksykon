@@ -23,3 +23,9 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 ### Procesy
 
 * [Proces zarządzania ryzykiem strony trzeciej (TPRM – Third Party Risk Management)](proces_zarzadzania_tprm.md)
+
+### Przykłady
+
+* [Przykładowe wskaźniki IOC](przykladowe_wskazniki_ioc.md)
+
+### Akronimy
