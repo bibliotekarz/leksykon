@@ -6,6 +6,7 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 
 ### Reagowanie na incydenty
 
+* [Fazy reagowania na incydent](fazy_reagowania_na_incydent.md)
 * [Ataki na System Nazw Domenowych (DNS)](reagowanie_incydent_atak_na_dns.md)
 * [Ataki na Internet Rzeczy (IoT)](reagowanie_incydent_atak_na_iot.md)
 * [Atak Ransomware](reagowanie_incydent_atak_ransomware.md)
@@ -19,6 +20,8 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 * [Zagrożenie Podszywanie się (Spoofing)](reagowanie_zagrozenie_spoofing.md)
 * [Zagrożenie oprogramowanie szpiegujące (Spyware)](reagowanie_zagrozenie_spyware.md)
 * [Zagrożenie Szpiegostwo wewnętrzne](reagowanie_zagrozenie_szpiegostwo_wewnetrzne.md)
+
+### [Bezpieczny trzynasty](bezpieczny_13.md) cykl prostych artykułów o tematyce bezpieczeństwa dla pracowników
 
 ### Procesy
 
