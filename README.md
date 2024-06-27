@@ -21,7 +21,7 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 * [Zagrożenie oprogramowanie szpiegujące (Spyware)](reagowanie_zagrozenie_spyware.md)
 * [Zagrożenie Szpiegostwo wewnętrzne](reagowanie_zagrozenie_szpiegostwo_wewnetrzne.md)
 
-### [Bezpieczny trzynasty](bezpieczny_13.md) cykl prostych artykułów o tematyce bezpieczeństwa dla pracowników
+### [Bezpieczny trzynasty](./bezpieczny13/bezpieczny_13.md) cykl prostych artykułów o tematyce bezpieczeństwa dla pracowników
 
 ### Procesy
 
