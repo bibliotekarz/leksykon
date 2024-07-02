@@ -26,6 +26,7 @@ Leksykon pojęć, procedur, działań związanych z pracą Blue Team
 ### Procesy
 
 * [Proces zarządzania ryzykiem strony trzeciej (TPRM – Third Party Risk Management)](proces_zarzadzania_tprm.md)
+* [Jak wykryć zagrożenie wewnętrzne](jak_wykryc_zagrozenie_wewnetrzne.md)
 
 ### Przykłady
 
