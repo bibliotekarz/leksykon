@@ -7,3 +7,5 @@ W zamyśle przeznaczony do publikowania przez Bezpieczników np. w sieciach Intr
 Cykl przydatny w realizacji wymogu NIS2 w zakresie ustawicznego kształcenia pracowników.
 
 ## Na cykl składa się 12 artykułów
+
+[Bezpieczeństwo urządzeń mobilnych](bezpieczenstwo_urzadzen_mobilnych.md)
