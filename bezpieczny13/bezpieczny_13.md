@@ -11,3 +11,4 @@ Cykl przydatny w realizacji wymogu NIS2 w zakresie ustawicznego kształcenia pra
 * [Bezpieczeństwo urządzeń mobilnych](bezpieczenstwo_urzadzen_mobilnych.md)
 * [Rozpoznawanie i unikanie zagrożeń w sieci](rozpoznawanie_zagrozen.md)
 * [Podstawy ochrony cyfrowej](podstawy_ochrony_cyfrowej.md)
+* [Rodzaje zagrożeń w sieci](rodzaje_zagrozen.md)
