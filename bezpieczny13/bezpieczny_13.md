@@ -12,3 +12,4 @@ Cykl przydatny w realizacji wymogu NIS2 w zakresie ustawicznego kształcenia pra
 * [Rozpoznawanie i unikanie zagrożeń w sieci](rozpoznawanie_zagrozen.md)
 * [Podstawy ochrony cyfrowej](podstawy_ochrony_cyfrowej.md)
 * [Rodzaje zagrożeń w sieci](rodzaje_zagrozen.md)
+* [Cyberhigiena: Codzienne praktyki podnoszące bezpieczeństwo](cyberhigiena.md)

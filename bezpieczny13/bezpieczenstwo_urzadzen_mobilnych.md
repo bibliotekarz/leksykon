@@ -56,6 +56,6 @@ Stosowanie:
 * korzystanie z oprogramowania antywirusowego,
 * świadome korzystanie z aplikacji mobilnych,
 
-  to podstawowe kroki, które możemy podjąć, aby chronić nasze smartfony i tablety przed zagrożeniami. 
+to podstawowe kroki, które możemy podjąć, aby chronić nasze smartfony i tablety przed zagrożeniami. 
   
-  Pamiętajmy, że nasze bezpieczeństwo zależy przede wszystkim od naszej świadomości i odpowiedzialnego zachowania w sieci. Unikanie klikania w podejrzane linki, sprawdzanie wiarygodności nadawców oraz korzystanie z oprogramowania antywirusowego to podstawowe kroki, które możemy podjąć, aby chronić się przed cyberatakami. Dzięki temu możemy cieszyć się wszystkimi zaletami nowoczesnych technologii, minimalizując jednocześnie ryzyko stania się ofiarą cyberprzestępców.
+Pamiętajmy, że nasze bezpieczeństwo zależy przede wszystkim od naszej świadomości i odpowiedzialnego zachowania w sieci. Unikanie klikania w podejrzane linki, sprawdzanie wiarygodności nadawców oraz korzystanie z oprogramowania antywirusowego to podstawowe kroki, które możemy podjąć, aby chronić się przed cyberatakami. Dzięki temu możemy cieszyć się wszystkimi zaletami nowoczesnych technologii, minimalizując jednocześnie ryzyko stania się ofiarą cyberprzestępców.
