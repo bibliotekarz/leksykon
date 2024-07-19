@@ -13,3 +13,4 @@ Cykl przydatny w realizacji wymogu NIS2 w zakresie ustawicznego kształcenia pra
 * [Podstawy ochrony cyfrowej](podstawy_ochrony_cyfrowej.md)
 * [Rodzaje zagrożeń w sieci](rodzaje_zagrozen.md)
 * [Cyberhigiena: Codzienne praktyki podnoszące bezpieczeństwo](cyberhigiena.md)
+* [Phishing i jak się przed nim bronić](phishing_jak_sie_bronic.md)
