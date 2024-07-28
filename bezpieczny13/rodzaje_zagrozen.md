@@ -8,7 +8,7 @@ Jednym z najpowszechniejszych zagrożeń online jest phishing, czyli próba wył
 
 ## Malware
 
-Malware, czyli złośliwe oprogramowanie, Komputer, tablet, telefon mogą być zainfekowane poprzez pobieranie podejrzanych plików lub klikanie w zainfekowane linki. Aby uniknąć złośliwego oprogramowania, zawsze pobierajmy aplikacje oraz pliki tylko z zaufanych źródeł, regularnie aktualizujmy oprogramowanie i system operacyjny oraz korzystajmy z oprogramowania antywirusowego.
+Malware, czyli złośliwe oprogramowanie. Komputer, tablet, telefon mogą być zainfekowane poprzez pobieranie podejrzanych plików lub klikanie w zainfekowane linki. Aby uniknąć złośliwego oprogramowania, zawsze pobierajmy aplikacje oraz pliki tylko z zaufanych źródeł (najlepiej bezposrednio od producenta), regularnie aktualizujmy oprogramowanie i system operacyjny oraz korzystajmy z oprogramowania antywirusowego.
 
 ## Ataki DDoS
 
@@ -16,31 +16,31 @@ Ataki DDoS (Distributed Denial of Service) mogą spowodować niedostępność se
 
 ## Cyberprzemoc i cyberprześladowanie
 
-Cyberprzemoc i cyberprześladowanie mogą prowadzić do poważnych konsekwencji psychicznych i emocjonalnych. Aby chronić się przed cyberprzemocą, nie udostępniajmy osobistych informacji online, korzystajmy z prywatnych ustawień prywatności na platformach społecznościowych oraz zgłaszajmy wszelkie przypadki cyberprzemocy do odpowiednich organów.
+Cyberprzemoc i cyberprześladowanie mogą prowadzić do poważnych konsekwencji psychicznych i emocjonalnych. Aby chronić się przed cyberprzemocą, nie udostępniajmy osobistych informacji online, korzystajmy z ustawień prywatności na platformach społecznościowych oraz zgłaszajmy wszelkie przypadki cyberprzemocy do odpowiednich organów.
 
 ## Fake Newsy
 
-Fake newsy, czyli fałszywe informacje rozpowszechniane w internecie, stanowią istotne zagrożenie dla społeczeństwa, mogąc wprowadzać ludzi w błąd i manipulować ich poglądami. Aby unikać pułapek fake newsów, zawsze sprawdzajmy wiarygodność źródła informacji, zweryfikujmy faktów w kilku niezależnych źródłach, oraz korzystajmy z wiarygodnych serwisów informacyjnych i mediów społecznościowych. Pamiętajmy, że w obliczu szerzenia fake newsów kluczowa jest nasza zdolność do krytycznego myślenia i analizy informacji, zanim podzielimy się nimi dalej w sieci.
+Fake newsy, czyli fałszywe informacje rozpowszechniane w internecie, stanowią istotne zagrożenie dla społeczeństwa, mogąc wprowadzać ludzi w błąd i manipulować ich poglądami. Aby unikać pułapek fake newsów, zawsze sprawdzajmy wiarygodność źródła informacji, zweryfikujmy informację w kilku niezależnych źródłach, oraz korzystajmy z wiarygodnych serwisów informacyjnych i autorów. Pamiętajmy, że w obliczu szerzenia fake newsów kluczowa jest nasza zdolność do krytycznego myślenia i analizy informacji, zanim podzielimy się nimi dalej w sieci.
 
 ## Bezpieczeństwo kont
 
-Stosowanie silnych i unikalnych haseł do wszystkich naszych kont online oraz korzystanie z dwuskładnikowej autoryzacji może znacznie zwiększyć bezpieczeństwo naszych kont online. Dodatkowo, unikajmy udostępniania hasła do konta innym osobom oraz dbajmuy aby hasło było długie a najlepiej jeszcze dłuższe.
+Stosowanie długich silnych i unikalnych haseł do wszystkich naszych kont online oraz korzystanie z dwuskładnikowej autoryzacji może znacznie zwiększyć bezpieczeństwo naszych kont online. Dodatkowo, unikajmy udostępniania hasła do konta innym osobom oraz dbajmuy aby hasło było długie a najlepiej jeszcze dłuższe.
 
 ## Edukacja i świadomość
 
-Najważniejszym środkiem ochrony przed zagrożeniami online jest edukacja i świadomość. Uczmy się rozpoznawać zagrożenia online, dbajmy o swoją prywatność online oraz bądźmy świadomi konsekwencji naszych działań w sieci. Pamiętajmy również, że w razie wątpliwości zawsze możemy zasięgnąć porady dorosłych lub specjalistów ds. bezpieczeństwa cybernetycznego.
+Najważniejszym środkiem ochrony przed zagrożeniami online jest edukacja i świadomość. Uczmy się rozpoznawać zagrożenia online, dbajmy o swoją prywatność online oraz bądźmy świadomi konsekwencji naszych działań w sieci. Pamiętajmy również, że w razie wątpliwości zawsze możemy zasięgnąć porady specjalistów ds. bezpieczeństwa cybernetycznego.
 
 ## Ataki na Media Społecznościowe
 
-Social media stały się integralną częścią naszego życia cyfrowego, ale jednocześnie stają się także miejscem dla różnych rodzajów ataków i zagrożeń. Ataki w social media stanowią istotne zagrożenie dla naszej prywatności, bezpieczeństwa i zdrowia psychicznego. Dlatego ważne jest, aby być świadomym tych zagrożeń i stosować się do praktycznych środków ostrożności. Poniżej kilka przykładów ataków, na które warto zwrócić uwagę:
+Social media stały się integralną częścią naszego życia cyfrowego, ale jednocześnie stają się także miejscem dla różnych rodzajów ataków i zagrożeń. Ataki w social media stanowią istotne zagrożenie dla prywatności, bezpieczeństwa i zdrowia psychicznego każdego ich użytkownika. Dlatego ważne jest, aby być świadomym tych zagrożeń i stosować się do praktycznych środków ostrożności. Poniżej kilka przykładów ataków, na które warto zwrócić uwagę:
 
 - ### Phishing na platformach społecznościowych
 
-Ataki phishingowe nie ograniczają się tylko do e-maili. Phisherzy często wykorzystują platformy społecznościowe i komunikatory do wysyłania fałszywych wiadomości, które wydają się pochodzić od rzekomych przyjaciół lub firm. Mogą prosić o podanie poufnych danych, kliknięcie w podejrzane linki lub pobranie złośliwego oprogramowania. Warto zachować ostrożność i nie ufać wiadomościom od nieznanych lub podejrzanych nadawców.
+Ataki phishingowe nie ograniczają się tylko do e-maili. Phisherzy często wykorzystują platformy społecznościowe i komunikatory do wysyłania fałszywych wiadomości, które wydają się pochodzić od rzekomych przyjaciół lub firm. Mogą prosić o podanie poufnych danych, kliknięcie w podejrzane linki lub pobranie złośliwego oprogramowania. Warto zachować ostrożność i nie ufać wiadomościom od nieznanych lub podejrzanych nadawców. Często są równiez przejmowane konta rodziny i znajomych dlatego w przpadku dziwnego zachowania warto sprawdzić czy zaufane konto nie zostało przejęte przez cyberprzestępców.
 
 - ### Fałszywe profile i konta
 
-Cyberprzestępcy mogą tworzyć fałszywe profile na platformach społecznościowych, podszywając się pod rzeczywiste osoby lub firmy. Mogą to wykorzystać do rozpowszechniania dezinformacji, szpiegostwa lub ataków na reputację. Warto być świadomym, że nie wszystkie profile są tym, za co się podają, i dokładnie sprawdzić autentyczność profilu, zanim uwierzymy w przekazywane przez nie informacje.
+Cyberprzestępcy mogą tworzyć fałszywe profile na platformach społecznościowych, podszywając się pod rzeczywiste osoby lub firmy. Mogą to wykorzystać do rozpowszechniania dezinformacji, szpiegostwa lub ataków na reputację. Warto być świadomym, że nie wszystkie profile są tymi, za które się podają i dokładnie sprawdzić autentyczność profilu, zanim uwierzymy w przekazywane przez nie informacje.
 
 - ### Cyberprzemoc i trolling
 
@@ -52,4 +52,4 @@ Social media są również miejscem, gdzie dezinformacja i manipulacja informacj
 
 ## Podsumowanie
 
-Zagrożenia online mogą występować w różnych formach i są stale obecne w naszym cyfrowym środowisku. Jednak stosując praktyczne porady na temat identyfikacji i unikania zagrożeń online, możemy znacząco zwiększyć nasze bezpieczeństwo i chronić naszą prywatność w sieci. Zachowajmy zdrowy sceptycyzm wobec treści, które widzimy w sieci, nie ufać nieznajomym profilom ani podejrzanych wiadomościom, a w razie wątpliwości korzystać z opcji zgłaszania i blokowania niepożądanych treści czy zachowań. Pamiętajmy, że nasze działania w internecie mają realne konsekwencje, dlatego warto być zawsze czujnym i odpowiedzialnym użytkownikiem internetu
+Zagrożenia online mogą występować w różnych formach i są stale obecne w naszym cyfrowym środowisku. Jednak stosując praktyczne porady na temat identyfikacji i unikania zagrożeń online, możemy znacząco zwiększyć nasze bezpieczeństwo i chronić naszą prywatność w sieci. Zachowajmy zdrowy sceptycyzm wobec treści, które widzimy w sieci, nie należy ufać nieznajomym profilom ani podejrzanym niewiarygodnym wiadomościom. W razie wątpliwości trzeba korzystać z opcji zgłaszania i blokowania niepożądanych treści czy zachowań. Pamiętajmy, że nasze działania w internecie mają realne konsekwencje, dlatego warto być zawsze czujnym i odpowiedzialnym użytkownikiem internetu.
