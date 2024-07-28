@@ -37,13 +37,13 @@ Usuń pierwotną przyczynę i wszelkie efekty incydentu:
 * Zabezpiecz materiały i dowody do analizy śledczej
 * Określ które zasoby nie zostały naruszone a które wymagaja interwencji
 * Przeprowadź analizę źródła i przebiegu incydentu
-* Określ sposób postępowania ze skopromitowanymi zasobami
+* Określ sposób postępowania ze skompromitowanymi zasobami
 
 ## Odzyskiwanie
 
 Przywróć i zweryfikuj funkcjonalność systemu:
 
-* Odtwórz środowisko sprzętowe, jeśli jest taka potrzeba dokonaj jego niezbędnego upgrejdu czy modyfikacji
+* Odtwórz środowisko sprzętowe, jeśli jest taka potrzeba dokonaj jego niezbędnej aktualizacji czy modyfikacji
 * Dokonaj odtworzenia środowiska logicznego w sposób wykluczający przywrócenie problemu np. poprzez backdory ulokowane w backupach czy snapshotach
 * Dokonuj instalacji tylko z pewnych nośników
 * Przeprowadź niezbędne aktualizacje
@@ -55,7 +55,7 @@ Przywróć i zweryfikuj funkcjonalność systemu:
   
 ## Wyciąganie wniosków i udoskonalenie systemu
 
-Udokumentuj incydent i usprawnij przyszłe działania i reacje:
+Udokumentuj incydent, oraz usprawnij przyszłe działania i reacje:
 
 * Uzupełnij dokumentację o wnioski wyciągnięte z incydentu
 * Zabezpiecz system przed możliwoscią powtórzenia się incydentu
