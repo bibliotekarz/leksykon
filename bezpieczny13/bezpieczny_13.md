@@ -17,3 +17,5 @@ Cykl przydatny w realizacji wymogu NIS2 w zakresie ustawicznego kształcenia pra
 * [Rodzaje zagrożeń w sieci](rodzaje_zagrozen.md)
 * [Hasła i uwierzytelnianie dwuskładnikowe](hasla_uwierzytelnianie_dwuskladnikowe.md)
 * [Co to jest cyberbezpieczeństwo i dlaczego jest ważne dla każdego użytkownika internetu](co_to_jest_cyberbezpieczenstwo.md)
+* [Podstawy cyberbezpieczeństwa](podstawy_cyberbezpieczenstwa.md)
+* [Nieświadoma publikacja metadanych](nieswiadoma_publikacja_metadanych.md)
