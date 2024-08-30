@@ -19,3 +19,4 @@ Cykl przydatny w realizacji wymogu NIS2 w zakresie ustawicznego kształcenia pra
 * [Co to jest cyberbezpieczeństwo i dlaczego jest ważne dla każdego użytkownika internetu](co_to_jest_cyberbezpieczenstwo.md)
 * [Podstawy cyberbezpieczeństwa](podstawy_cyberbezpieczenstwa.md)
 * [Nieświadoma publikacja metadanych](nieswiadoma_publikacja_metadanych.md)
+* [Ochrona prywatności online](ochrona_prywatnosci_online.md)
